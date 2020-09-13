@@ -14,6 +14,7 @@ Worked out solutions are in respective folders in repo.
 | # | Linked List based |
 |---| ----- |
 |1|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 
 </br>
