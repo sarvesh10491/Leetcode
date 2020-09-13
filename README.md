@@ -14,3 +14,10 @@ Worked out solutions are in respective folders in repo.
 | # | Linked List based |
 |---| ----- |
 |1|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+
+</br>
+
+| # | Pattern based |
+|---| ----- |
+|1|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
