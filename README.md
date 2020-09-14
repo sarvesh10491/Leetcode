@@ -1,6 +1,6 @@
 # LeetCode coding questions
 
-Worked out solutions are in respective folders in repo.
+Worked out solutions for each set are in respective folders in repo.
 
 </br>
 
