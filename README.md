@@ -22,3 +22,10 @@ Worked out solutions are in respective folders in repo.
 | # | Pattern based |
 |---| ----- |
 |1|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+
+</br>
+
+| # | Arithmatic based |
+|---| ----- |
+|1|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)
