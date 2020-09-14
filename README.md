@@ -22,6 +22,7 @@ Worked out solutions for each set are in respective folders in repo.
 | # | Pattern based |
 |---| ----- |
 |1|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+|2|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 
 </br>
