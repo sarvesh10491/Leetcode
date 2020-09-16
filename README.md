@@ -9,6 +9,7 @@ Worked out solutions for each set are in respective folders in repo.
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)
 |2|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 |3|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+|4|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 </br>
 
