@@ -7,18 +7,20 @@ class Solution(object):
         s = list(s)
         if len(s)==0 or len(s)==1:
             return len(s)
+
         cur_l, max_l = 1,1
         r,f = 0,1
+        
         d = {}
         d[s[r]] = 1
         
         while f<len(s):
-            if s[f] not in d:
+            if s[f] not in d:   # Case : Unique character hit
                 cur_l += 1
                 d[s[f]] = 1
                 f += 1
                 
-            else:
+            else:   # Case : Repeated character hit
                 max_l = max(max_l,cur_l)
                 cur_l = 1
                 r += 1
