@@ -16,6 +16,7 @@ Worked out solutions for each set are in respective folders in repo.
 |---| ----- |
 |1|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+|3|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 
 </br>
