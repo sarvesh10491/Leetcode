@@ -1,6 +1,6 @@
-
 # Implementation with dictionary
 #--------------------------------
+
 class Solution(object):
     def removeDuplicates(self, nums):
         """
