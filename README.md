@@ -30,6 +30,7 @@ Worked out solutions for each set are in respective folders in repo.
 |2|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 |3|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 |4|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+|5|[Rotate Image](https://leetcode.com/problems/rotate-image/)
 
 
 </br>
