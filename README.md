@@ -39,3 +39,4 @@ Worked out solutions for each set are in respective folders in repo.
 | # | Arithmatic based |
 |---| ----- |
 |1|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+|2|[Permutations](https://leetcode.com/problems/permutations/)
