@@ -64,7 +64,7 @@ We will set 1st row & column to 1 starting from top left cell of grid.
 Then for each remaining cell, we will calculate paths possible from that cell by adding available paths from cell row down & column down.
 The final value in right bottom cell of grid will be total paths which is expected answer.
 
-For m=3 & n=7 dp table in end will look like below.
+For m=3 & n=7, dp table in end will look like below.
 [
 [ 1 1 1 1 1 1 1]
 [ 1 2 3 4 5 6 7]
