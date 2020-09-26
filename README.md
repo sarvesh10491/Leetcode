@@ -32,6 +32,7 @@ Worked out solutions for each set are in respective folders in repo.
 |3|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 |4|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 |5|[Rotate Image](https://leetcode.com/problems/rotate-image/)
+|6|[Unique Paths](https://leetcode.com/problems/unique-paths/)
 
 
 </br>
