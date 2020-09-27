@@ -1,42 +1,29 @@
+''' Algorithm :
+Create 4 pointers to track boundaries of matrix.
+In every iteration we will swap respective 4 numbers in ratated position in same ring & make our way inwards.
+
+'''
+
 class Solution(object):
-    def isValidSudoku(self, board):
+    def rotate(self, matrix):
         """
-        :type board: List[List[str]]
-        :rtype: bool
+        :type matrix: List[List[int]]
+        :rtype: None Do not return anything, modify matrix in-place instead.
         """
-        cd = {}         # Dictionary to track history of number seen in same column
-        grid = {}       # Dictionary to track history of number seen in same grid
-        cur_grid = -1
+        tp,bt,lt,rt = 0,len(matrix)-1,0,len(matrix[0])-1
+        ring = 0
         
-        for k in range(1,10):   # Value of these dictionaries will be list for each column/grid position from 1 to 9
-            cd[str(k)] = []
-            grid[k] = []
-        
-        for r in range(len(board)):
-            rd = {}                             # Dictionary to track history of number seen in same row
-            for c in range(len(board[0])):
-                n = board[r][c]
-                
-                # Determine correct grid number we are in
-                if r<3:
-                    if c<3: cur_grid = 1
-                    elif c<6: cur_grid = 2
-                    else: cur_grid = 3
-                elif r<6:
-                    if c<3: cur_grid = 4
-                    elif c<6: cur_grid = 5
-                    else: cur_grid = 6
-                else:
-                    if c<3: cur_grid = 7
-                    elif c<6: cur_grid = 8
-                    else: cur_grid = 9
-                
-                if n!=".":
-                    if n in rd or c in cd[n] or n in grid[cur_grid]:    # If number was seen in same row or column or grid, then its not valid sudoku
-                        return False
-                    rd[n] = 1                   # Update number was seen in current row
-                    cd[n].append(c)             # Update number was seen in current column
-                    grid[cur_grid].append(n)    # Update number was seen in current grid
-                
-        return True
-        
+        while tp<=bt and lt<=rt:
+            for i in range(lt,rt):
+                i -= ring                               # To ensure we cover all numbers in row/column in current ring from 0 to excluding last
+                tmp = matrix[tp][lt+i]                  # Save top row position number to move to respective right column position in current ring
+                matrix[tp][lt+i] = matrix[bt-i][lt]     # Move left column number to respective top row position in current ring
+                matrix[bt-i][lt] = matrix[bt][rt-i]     # Move bottom row number to respective left column position in current ring
+                matrix[bt][rt-i] = matrix[tp+i][rt]     # Move right column number to respective bottom row position in current ring
+                matrix[tp+i][rt] = tmp
+            
+            tp += 1
+            bt -= 1
+            lt += 1
+            rt -= 1
+            ring += 1
