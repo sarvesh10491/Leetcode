@@ -37,6 +37,7 @@ Worked out solutions for each set are in respective folders in repo.
 |8|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 |9|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 |10|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+|11|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
 </br>
 
