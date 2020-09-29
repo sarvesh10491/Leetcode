@@ -12,6 +12,7 @@ Worked out solutions for each set are in respective folders in repo.
 |4|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 |5|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 |6|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+|7|[Sort Colors](https://leetcode.com/problems/sort-colors/)
 
 </br>
 
