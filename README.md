@@ -35,6 +35,8 @@ Worked out solutions for each set are in respective folders in repo.
 |6|[Unique Paths](https://leetcode.com/problems/unique-paths/)
 |7|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 |8|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+|9|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
 
 </br>
 
