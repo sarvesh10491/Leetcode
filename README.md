@@ -46,4 +46,6 @@ Worked out solutions for each set are in respective folders in repo.
 |---| ----- |
 |1|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 |2|[Permutations](https://leetcode.com/problems/permutations/)
-|3|[Add Binary](https://leetcode.com/problems/add-binary/)
+|3|[Combinations](https://leetcode.com/problems/combinations/)
+|4|[Add Binary](https://leetcode.com/problems/add-binary/)
+|5|[Subsets](https://leetcode.com/problems/subsets/)
