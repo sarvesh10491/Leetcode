@@ -10,10 +10,9 @@ In the end, we return max in the nums array which will have max subarray sum.
 '''
 
 class Solution(object):
-    def searchInsert(self, nums, target):
+    def maxSubArray(self, nums):
         """
         :type nums: List[int]
-        :type target: int
         :rtype: int
         """
         for i in range(1, len(nums)):

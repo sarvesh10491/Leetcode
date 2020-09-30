@@ -10,9 +10,10 @@ Worked out solutions for each set are in respective folders in repo.
 |2|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 |3|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 |4|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-|5|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+|5|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 |6|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-|7|[Sort Colors](https://leetcode.com/problems/sort-colors/)
+|7|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+|8|[Sort Colors](https://leetcode.com/problems/sort-colors/)
 
 </br>
 
