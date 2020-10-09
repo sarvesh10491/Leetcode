@@ -50,3 +50,4 @@ Worked out solutions for each set are in respective folders in repo.
 |3|[Combinations](https://leetcode.com/problems/combinations/)
 |4|[Add Binary](https://leetcode.com/problems/add-binary/)
 |5|[Subsets](https://leetcode.com/problems/subsets/)
+|6|[Gray Code](https://leetcode.com/problems/gray-code/)
