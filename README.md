@@ -14,6 +14,7 @@ Worked out solutions for each set are in respective folders in repo.
 |6|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 |7|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 |8|[Sort Colors](https://leetcode.com/problems/sort-colors/)
+|9|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 </br>
 
@@ -23,6 +24,7 @@ Worked out solutions for each set are in respective folders in repo.
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 |3|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 |4|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+|5|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
 
 </br>
@@ -50,4 +52,5 @@ Worked out solutions for each set are in respective folders in repo.
 |3|[Combinations](https://leetcode.com/problems/combinations/)
 |4|[Add Binary](https://leetcode.com/problems/add-binary/)
 |5|[Subsets](https://leetcode.com/problems/subsets/)
-|6|[Gray Code](https://leetcode.com/problems/gray-code/)
+|6|[Subsets II](https://leetcode.com/problems/subsets-ii/)
+|7|[Gray Code](https://leetcode.com/problems/gray-code/)
