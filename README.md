@@ -54,3 +54,4 @@ Worked out solutions for each set are in respective folders in repo.
 |5|[Subsets](https://leetcode.com/problems/subsets/)
 |6|[Subsets II](https://leetcode.com/problems/subsets-ii/)
 |7|[Gray Code](https://leetcode.com/problems/gray-code/)
+|8|[3Sum](https://leetcode.com/problems/3sum/)
