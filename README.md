@@ -26,7 +26,7 @@ Worked out solutions for each set are in respective folders in repo.
 |4|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 |5|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 |6|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
-
+|7|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 </br>
 
