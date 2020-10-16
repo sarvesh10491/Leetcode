@@ -28,6 +28,7 @@ Worked out solutions for each set are in respective folders in repo.
 |6|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 |7|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 |8|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+|9|[Rotate List](https://leetcode.com/problems/rotate-list/)
 
 </br>
 
