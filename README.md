@@ -30,6 +30,14 @@ Worked out solutions for each set are in respective folders in repo.
 |8|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 |9|[Rotate List](https://leetcode.com/problems/rotate-list/)
 
+
+</br>
+
+| # | Tree based |
+|---| ----- |
+|1|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+
 </br>
 
 | # | Pattern based |
