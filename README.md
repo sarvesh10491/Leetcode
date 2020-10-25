@@ -36,6 +36,7 @@ Worked out solutions for each set are in respective folders in repo.
 | # | Tree based |
 |---| ----- |
 |1|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+|2|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 
 </br>
