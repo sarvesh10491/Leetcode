@@ -38,6 +38,7 @@ Worked out solutions for each set are in respective folders in repo.
 |1|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 |2|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 |3|[Same Tree](https://leetcode.com/problems/same-tree/)
+|4|[Path Sum](https://leetcode.com/problems/path-sum/)
 
 </br>
 
