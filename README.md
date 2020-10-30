@@ -39,6 +39,7 @@ Worked out solutions for each set are in respective folders in repo.
 |2|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 |3|[Same Tree](https://leetcode.com/problems/same-tree/)
 |4|[Path Sum](https://leetcode.com/problems/path-sum/)
+|5|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 
 </br>
 
