@@ -30,6 +30,8 @@ Worked out solutions for each set are in respective folders in repo.
 |8|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 |9|[Rotate List](https://leetcode.com/problems/rotate-list/)
 |10|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+|11|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+|12|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 
 
 </br>
@@ -59,6 +61,7 @@ Worked out solutions for each set are in respective folders in repo.
 |11|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 |12|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 |13|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+|14|[Triangle](https://leetcode.com/problems/triangle/)
 
 </br>
 
